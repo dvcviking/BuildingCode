@@ -1,8 +1,6 @@
-
-
 Solution
 
-This open-source project aims to make a useful tool for people in the construction field. The tool will help them create fake data that looks a lot like real construction information. This synthetic data can be used for small language model(SLM), such as building models, testing ideas, and checking if things work well. By making data that's similar to real construction situations, we want to improve how people do research, develop new things, and make decisions in the construction industry.
+This open-source project aims to make a useful tool for people in the construction field. The tool will help them create synthetic data can that looks a lot like real construction information. This synthetic data can be used for small language model(SLM), such as building models, testing ideas, and checking if things work well. By making data that's similar to real construction situations, we want to improve how people do research, develop new things, and make decisions in the construction industry.
 
 Problem Statement 
 
